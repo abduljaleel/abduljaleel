@@ -116,6 +116,16 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
+def fetch_tweet_entries():
+    entries = feedparser.parse("https://rss.app/feeds/tnRpjtFTax70ic0t.xml")["entries"]
+    return [
+        {
+            "title": entry["title"],
+            "url": entry["link"].split("#")[0],
+        }
+        for entry in entries
+    ]
+
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -161,5 +171,13 @@ if __name__ == "__main__":
         ["* [{title}]({url})".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
+
+    readme.open("w").write(rewritten)
+    
+    entries = fetch_tweet_entries()[:5]
+    entries_md = "\n".join(
+        ["* [{title}]({url})".format(**entry) for entry in entries]
+    )
+    rewritten = replace_chunk(rewritten, "tweets", entries_md)
 
     readme.open("w").write(rewritten)
