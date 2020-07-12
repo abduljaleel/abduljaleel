@@ -20,7 +20,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-
+* [gravitee-gateway 1.0.0](https://github.com/abduljaleel/gravitee-gateway/releases/tag/1.0.0) - 2020-07-12
 <!-- recent_releases ends -->
 
 <a href="https://github.com/abduljaleel/abduljaleel/actions"><img src="https://github.com/abduljaleel/abduljaleel/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
