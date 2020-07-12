@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [techvedi: Kubernetes and Networks – why is this so dang hard? -](techvedi/status/1282286104142467073)
-* [techvedi: Stono/kconmon: A Kubernetes node connectivity monitoring tool -](techvedi/status/1282286104108863489)
-* [@techvedi: Fast HTML minifier written in Rust with binds to esbuild -](techvedi/status/1282278550830116870)
-* [@techvedi: IBM looking for 12 years’ experience in Kubernetes administration -](techvedi/status/1282278550687473664)
-* [@techvedi: Twitter Retweet Bot (Python 3) -](techvedi/status/1282270987472367617)
+* [ubernetes and Networks – why is this so dang hard? -](https://twitter.com/techvedi/status/1282286104142467073)
+* [tono/kconmon: A Kubernetes node connectivity monitoring tool -](https://twitter.com/techvedi/status/1282286104108863489)
+* [Fast HTML minifier written in Rust with binds to esbuild -](https://twitter.com/techvedi/status/1282278550830116870)
+* [IBM looking for 12 years’ experience in Kubernetes administration -](https://twitter.com/techvedi/status/1282278550687473664)
+* [Twitter Retweet Bot (Python 3) -](https://twitter.com/techvedi/status/1282270987472367617)
 <!-- tweets ends -->
