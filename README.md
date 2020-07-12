@@ -26,5 +26,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [ Building a selfupdating profile README for GitHub  #techvu](https://twitter.com/techvedi/status/1282212493251796993)
+* [Kubernetes and Networks – why is this so dang hard? ](https://twitter.com/techvedi/status/1282286104142467073)
+* [Stono/kconmon: A Kubernetes node connectivity monitoring tool ](https://twitter.com/techvedi/status/1282286104108863489)
+* [ IBM looking for 12 years’ experience in Kubernetes administration ](https://twitter.com/techvedi/status/1282278550687473664)
 <!-- tweets ends -->
