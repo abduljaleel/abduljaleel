@@ -26,7 +26,5 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Kubernetes and Networks – why is this so dang hard? ](https://twitter.com/techvedi/status/1282286104142467073)
-* [Stono/kconmon: A Kubernetes node connectivity monitoring tool ](https://twitter.com/techvedi/status/1282286104108863489)
-* [ IBM looking for 12 years’ experience in Kubernetes administration ](https://twitter.com/techvedi/status/1282278550687473664)
+* [ighly resilient and easily maintainable applications guaranteed](https://twitter.com/endstacktech/status/1282306071587991558)
 <!-- tweets ends -->
