@@ -120,7 +120,7 @@ def fetch_tweet_entries():
     entries = feedparser.parse("https://rss.app/feeds/tnRpjtFTax70ic0t.xml")["entries"]
     return [
         {
-            "title": entry["title"][10:],
+            "title": entry["title"][10:].replace("-", ""),
             "url": entry["link"],
         }
         for entry in entries
