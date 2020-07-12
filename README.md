@@ -26,5 +26,5 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [ighly resilient and easily maintainable applications guaranteed](https://twitter.com/endstacktech/status/1282306071587991558)
+* [Highly resilient and easily maintainable applications guaranteed](https://twitter.com/endstacktech/status/1282306071587991558)
 <!-- tweets ends -->
