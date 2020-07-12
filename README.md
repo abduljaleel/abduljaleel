@@ -24,3 +24,8 @@
 * [zodiva 1.0](https://github.com/abduljaleel/zodiva/releases/tag/1.0) - 2020-07-12
 <!-- recent_releases ends -->
 
+### Latest Tweets
+<!-- tweets starts -->
+* [localstack-serverless 1.0](https://github.com/abduljaleel/localstack-serverless/releases/tag/1.0) - 2020-07-12
+* [zodiva 1.0](https://github.com/abduljaleel/zodiva/releases/tag/1.0) - 2020-07-12
+<!-- tweets ends -->
