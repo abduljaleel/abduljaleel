@@ -115,8 +115,19 @@ def fetch_blog_entries():
 
 
 if __name__ == "__main__":
-    readme = root / "README.md"
     
+    readme = root / "README.md"
+    project_releases = root / "releases.md"
+    releases = fetch_releases(TOKEN)
+    releases.sort(key=lambda r: r["published_at"], reverse=True)
+    md = "\n".join(
+        [
+            "* [{repo} {release}]({url}) - {published_at}".format(**release)
+            for release in releases[:5]
+        ]
+    )
+    readme_contents = readme.open().read()
+    rewritten = replace_chunk(readme_contents, "recent_releases", md)
     
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
