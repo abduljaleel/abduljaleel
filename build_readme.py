@@ -10,7 +10,7 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
-TOKEN = os.environ.get("ABDULJALEEL_TOKEN", "")
+TOKEN = os.environ.get("SIMONW_TOKEN", "")
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -53,6 +53,47 @@ query {
         "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
     )
 
+
+def fetch_releases(oauth_token):
+    repos = []
+    releases = []
+    repo_names = set()
+    has_next_page = True
+    after_cursor = None
+
+    while has_next_page:
+        data = client.execute(
+            query=make_query(after_cursor),
+            headers={"Authorization": "Bearer {}".format(oauth_token)},
+        )
+        print()
+        print(json.dumps(data, indent=4))
+        print()
+        for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
+                repos.append(repo)
+                repo_names.add(repo["name"])
+                releases.append(
+                    {
+                        "repo": repo["name"],
+                        "repo_url": repo["url"],
+                        "description": repo["description"],
+                        "release": repo["releases"]["nodes"][0]["name"]
+                        .replace(repo["name"], "")
+                        .strip(),
+                        "published_at": repo["releases"]["nodes"][0][
+                            "publishedAt"
+                        ].split("T")[0],
+                        "url": repo["releases"]["nodes"][0]["url"],
+                    }
+                )
+        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
+            "hasNextPage"
+        ]
+        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+    return releases
+
+
 def fetch_blog_entries():
     entries = feedparser.parse("https://abduljaleel.dev/feed/")["entries"]
     return [
@@ -67,6 +108,7 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
+    readme_contents = readme.open().read()
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
