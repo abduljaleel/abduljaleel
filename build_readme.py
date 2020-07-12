@@ -95,11 +95,14 @@ def fetch_releases(oauth_token):
 
 
 def fetch_tils():
-    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
-    return httpx.get(
-        "https://til.simonwillison.net/til.json",
-        params={"sql": sql, "_shape": "array",},
-    ).json()
+    entriest = feedparser.parse("https://rss.app/feeds/tnRpjtFTax70ic0t.xml")["entries"]
+    return [
+        {
+            "title": entry["title"],
+            "url": entry["link"].split("#")[0],
+        }
+        for entry in entriest
+    ]
 
 
 def fetch_blog_entries():
@@ -149,14 +152,7 @@ if __name__ == "__main__":
 
     tils = fetch_tils()
     tils_md = "\n".join(
-        [
-            "* [{title}]({url}) - {created_at}".format(
-                title=til["title"],
-                url=til["url"],
-                created_at=til["created_utc"].split("T")[0],
-            )
-            for til in tils
-        ]
+        ["* [{title}]({url})".format(**entry) for entry in entriest]
     )
     rewritten = replace_chunk(rewritten, "tils", tils_md)
 
