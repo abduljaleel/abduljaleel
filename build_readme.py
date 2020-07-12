@@ -121,7 +121,7 @@ def fetch_tweet_entries():
     return [
         {
             "title": entry["title"],
-            "url": entry["link[6,20]"],
+            "url": entry["link"],
         }
         for entry in entries
     ]
@@ -176,7 +176,7 @@ if __name__ == "__main__":
     
     entries = fetch_tweet_entries()[:5]
     entries_md = "\n".join(
-        ["* [{title}]({url})".format(**entry) for entry in entries]
+        ["* [{title}.substring(10,50)]({url})".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "tweets", entries_md)
 
