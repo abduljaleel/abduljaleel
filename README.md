@@ -18,4 +18,9 @@
 * [Deep Machine Learning libraries and frameworks](https://medium.com/@abduljaleelkavungal/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe?source=rss-e409f4b5ec81------2)
 <!-- tils ends -->
 
+### Recent releases
+<!-- recent_releases starts -->
+
+<!-- recent_releases ends -->
+
 <a href="https://github.com/abduljaleel/abduljaleel/actions"><img src="https://github.com/abduljaleel/abduljaleel/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
