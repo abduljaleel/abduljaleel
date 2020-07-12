@@ -94,6 +94,14 @@ def fetch_releases(oauth_token):
     return releases
 
 
+def fetch_tils():
+    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
+    return httpx.get(
+        "https://til.simonwillison.net/til.json",
+        params={"sql": sql, "_shape": "array",},
+    ).json()
+
+
 def fetch_blog_entries():
     entries = feedparser.parse("https://abduljaleel.dev/feed/")["entries"]
     return [
@@ -108,7 +116,38 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
+    project_releases = root / "releases.md"
+    releases = fetch_releases(TOKEN)
+    releases.sort(key=lambda r: r["published_at"], reverse=True)
+    md = "\n".join(
+        [
+            "* [{repo} {release}]({url}) - {published_at}".format(**release)
+            for release in releases[:5]
+        ]
+    )
     readme_contents = readme.open().read()
+    rewritten = replace_chunk(readme_contents, "recent_releases", md)
+
+    # Write out full project-releases.md file
+    project_releases_md = "\n".join(
+        [
+            (
+                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
+                "<br>{description}"
+            ).format(**release)
+            for release in releases
+        ]
+    )
+    project_releases_content = project_releases.open().read()
+    project_releases_content = replace_chunk(
+        project_releases_content, "recent_releases", project_releases_md
+    )
+    project_releases_content = replace_chunk(
+        project_releases_content, "release_count", str(len(releases)), inline=True
+    )
+    project_releases.open("w").write(project_releases_content)
+
+    
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
