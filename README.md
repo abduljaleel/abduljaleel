@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [@techvedi: Fast HTML minifier written in Rust with binds to esbuild -].substring(11,50)(https://twitter.com/techvedi/status/1282278550830116870)
-* [@techvedi: IBM looking for 12 years’ experience in Kubernetes administration -].substring(11,50)(https://twitter.com/techvedi/status/1282278550687473664)
-* [@techvedi: Twitter Retweet Bot (Python 3) -].substring(11,50)(https://twitter.com/techvedi/status/1282270987472367617)
-* [@techvedi: TypeScript – FAQ -].substring(11,50)(https://twitter.com/techvedi/status/1282270986969034754)
-* [techvedi: Don't make this container security mistake -].substring(11,50)(https://twitter.com/techvedi/status/1282263434252312577)
+* [@techvedi: Fast HTML minifier written in Rust with binds to esbuild -](https://twitter.com/techvedi/status/1282278550830116870)
+* [@techvedi: IBM looking for 12 years’ experience in Kubernetes administration -](https://twitter.com/techvedi/status/1282278550687473664)
+* [@techvedi: Twitter Retweet Bot (Python 3) -](https://twitter.com/techvedi/status/1282270987472367617)
+* [@techvedi: TypeScript – FAQ -](https://twitter.com/techvedi/status/1282270986969034754)
+* [techvedi: Don't make this container security mistake -](https://twitter.com/techvedi/status/1282263434252312577)
 <!-- tweets ends -->
