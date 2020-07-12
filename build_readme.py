@@ -121,7 +121,7 @@ def fetch_tweet_entries():
     return [
         {
             "title": entry["title"],
-            "url": entry["link"].split("#")[0],
+            "url": entry["link"],
         }
         for entry in entries
     ]
