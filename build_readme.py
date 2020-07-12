@@ -95,13 +95,13 @@ def fetch_releases(oauth_token):
 
 
 def fetch_tils():
-    entriest = feedparser.parse("https://rss.app/feeds/tnRpjtFTax70ic0t.xml")["entries"]
+    entries = feedparser.parse("https://rss.app/feeds/tnRpjtFTax70ic0t.xml")["entries"]
     return [
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
         }
-        for entry in entriest
+        for entry in entries
     ]
 
 
@@ -152,7 +152,7 @@ if __name__ == "__main__":
 
     tils = fetch_tils()
     tils_md = "\n".join(
-        ["* [{title}]({url})".format(**entry) for entry in entriest]
+        ["* [{title}]({url})".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "tils", tils_md)
 
