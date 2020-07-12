@@ -10,26 +10,12 @@
 
 ### Top Tweets
 <!-- tils starts -->
-* [@techvedi: Build a No-Slot MIDI Interface on the Apple ][ Game I/O Socket  #techvu](https://twitter.com/techvedi/status/1282212494707220483)
-* [@techvedi: An F-22 test pilot on the Raptor's flight control system  #techvu](https://twitter.com/techvedi/status/1282212491632824320)
-* [@techvedi: Building a self-updating profile README for GitHub  #techvu](https://twitter.com/techvedi/status/1282212493251796993)
-* [@techvedi: Reflections on Trusting Trust (1984) [pdf]  #techvu](https://twitter.com/techvedi/status/1282212489703428096)
-* [@techvedi: Announcing The Zig Software Foundation  #techvu](https://twitter.com/techvedi/status/1282212484456251397)
-* [@techvedi: PG: The biggest source of stress for me at YC was running HN  #techvu](https://twitter.com/techvedi/status/1282212486658306048)
-* [@techvedi: Will Be Discontinued  #techvu](https://twitter.com/techvedi/status/1282212480429821953)
-* [@techvedi: How much your computer can do in a second (2015)  #techvu](https://twitter.com/techvedi/status/1282212475484725248)
-* [@techvedi: Show HN: HN Demetricator – An extension that removes upvote and comment counts  #techvu](https://twitter.com/techvedi/status/1282212471307108352)
-* [@techvedi: Ask HN: What's the worst piece of software you use everyday? #techvu](https://twitter.com/techvedi/status/1282212467939082240)
-* [@techvedi: Migrating Away from Google Analytics  #techvu](https://twitter.com/techvedi/status/1282212463887474688)
-* [@techvedi: Porting a Wolfenstein-type engine to the MEGA65  #techvu](https://twitter.com/techvedi/status/1282212458153807872)
-* [@techvedi: Tracking Pico Balloons Using Ham Radio [pdf]  #techvu](https://twitter.com/techvedi/status/1282212461052141568)
-* [@techvedi: How to Understand Things  #techvu](https://twitter.com/techvedi/status/1282212455914123269)
-* [@techvedi: Scientists say you can cancel the noise but keep your window open  #techvu](https://twitter.com/techvedi/status/1282212453951180802)
-* [@techvedi: Epigrams on Programming (1982)  #techvu](https://twitter.com/techvedi/status/1282212452139245568)
-* [@techvedi: Show HN: Trail Router – generate running routes that prefer greenery and nature  #techvu](https://twitter.com/techvedi/status/1282212446917337090)
-* [@techvedi: CRDTs: The Hard Parts [video]  #techvu](https://twitter.com/techvedi/status/1282212442379083781)
-* [@techvedi: Show HN: Tiny password manager with all data stored encrypted on your machine  #techvu](https://twitter.com/techvedi/status/1282212439451488256)
-* [@techvedi: The illusion of control, and how to give it up  #techvu](https://twitter.com/techvedi/status/1282212435324272640)
+* [PHP Programming: Journey from Procedural to Serverless in 25 years](https://medium.com/@abduljaleelkavungal/php-programming-journey-from-procedural-to-serverless-in-25-years-cabbfbb09aa8?source=rss-e409f4b5ec81------2)
+* [Cloud cost saving opportunities : AWS](https://medium.com/@abduljaleelkavungal/cloud-cost-saving-opportunities-aws-a1f070dd2370?source=rss-e409f4b5ec81------2)
+* [5 key principles for IoT platforms](https://medium.com/i2sensys-official-blog/5-key-principles-for-iot-platforms-f49199eb7f3d?source=rss-e409f4b5ec81------2)
+* [Top 3 reasons to choose Amazon Lex for building chatbots](https://medium.com/@abduljaleelkavungal/top-3-reasons-to-choose-amazon-lex-for-building-chatbots-4939b5b8ba3d?source=rss-e409f4b5ec81------2)
+* [5 reasons why Chatbots are emerging as the future of business](https://medium.com/@abduljaleelkavungal/5-reasons-why-chatbots-are-emerging-as-the-future-of-business-b45e679a6510?source=rss-e409f4b5ec81------2)
+* [Deep Machine Learning libraries and frameworks](https://medium.com/@abduljaleelkavungal/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe?source=rss-e409f4b5ec81------2)
 <!-- tils ends -->
 
 </td><td valign="top">
