@@ -121,7 +121,7 @@ def fetch_tweet_entries():
     return [
         {
             "title": entry["title"],
-            "url": entry["link"].substring(10:50),
+            "url": entry["link"].substring[10:50],
         }
         for entry in entries
     ]
