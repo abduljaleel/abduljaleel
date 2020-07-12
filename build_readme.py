@@ -95,7 +95,7 @@ def fetch_releases(oauth_token):
 
 
 def fetch_tils():
-    entries = feedparser.parse("https://rss.app/feeds/tnRpjtFTax70ic0t.xml")["entries"]
+    entries = feedparser.parse("https://medium.com/feed/@abduljaleelkavungal")["entries"]
     return [
         {
             "title": entry["title"],
