@@ -150,7 +150,7 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    tils = fetch_tils()
+    entries = fetch_tils()
     tils_md = "\n".join(
         ["* [{title}]({url})".format(**entry) for entry in entries]
     )
