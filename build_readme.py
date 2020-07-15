@@ -117,7 +117,7 @@ def fetch_blog_entries():
     ]
 
 def fetch_tweet_entries():
-    entries = feedparser.parse("https://rss.app/feeds/CVEDhW05mXY2u53K.xml")["entries"]
+    entries = feedparser.parse("https://rss.app/feeds/LTKPAjAqAUOLIjlB.xml")["entries"]
     return [
         {
             "title": entry["title"][14:].replace("-", ""),
