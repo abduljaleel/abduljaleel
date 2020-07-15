@@ -26,9 +26,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [RT @nestframework: 📯📯 Announcing 📯📯
-
-We’re excited to announce that the PREORDER for Official @nestframework Fundamentals Course has begun…](https://twitter.com/endstacktech/status/1282670737350746114)
+* [](https://twitter.com/endstacktech/status/1283358412185595904)
 * [NestJS, bring order to your node application](https://twitter.com/endstacktech/status/1282639283677827073)
 * [Highly resilient and easily maintainable applications guaranteed](https://twitter.com/endstacktech/status/1282306071587991558)
 * [ 📯📯 Announcing 📯📯
