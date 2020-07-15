@@ -26,14 +26,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [](https://twitter.com/endstacktech/status/1283358412185595904)
-* [NestJS, bring order to your node application](https://twitter.com/endstacktech/status/1282639283677827073)
-* [Highly resilient and easily maintainable applications guaranteed](https://twitter.com/endstacktech/status/1282306071587991558)
-* [ 📯📯 Announcing 📯📯
-
-We’re excited to announce that the PREORDER for Official @nestframework Fundamentals Course has begun!
-
-5+ hours of guided video content with Core Team members 🤯
-
-Sign up for the Course today and save 50% OFF the price  🚀](https://twitter.com/nestframework/status/1277600147933990913)
+* [The Top 80 Nestjs Open Source Projects](https://twitter.com/endstacktech/status/1283363688016044037)
+* [Creating adminlike web applications with NestJS and React Admin](https://twitter.com/endstacktech/status/1283362664727457793)
+* [Build a blog using Nest.js, TypeScript, React and MongoDB](https://twitter.com/endstacktech/status/1283362191152779265)
 <!-- tweets ends -->
