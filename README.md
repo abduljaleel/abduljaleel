@@ -26,7 +26,5 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [The Top 80 Nestjs Open Source Projects](https://twitter.com/endstacktech/status/1283363688016044037)
-* [Creating adminlike web applications with NestJS and React Admin](https://twitter.com/endstacktech/status/1283362664727457793)
-* [Build a blog using Nest.js, TypeScript, React and MongoDB](https://twitter.com/endstacktech/status/1283362191152779265)
+* [ed] Your RSS.app Trial has Expired  Wed Jul 22 2020](https://rss.app)
 <!-- tweets ends -->
