@@ -26,9 +26,11 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [ checking out wrong commit  https://t.co/D34PElTbZ8](https://twitter.com/techvedi/status/1286624360409624578)
-* [HashiCorp Consul Service generally available on Azure today  https://t.co/zWs2kqAM6Q](https://twitter.com/techvedi/status/1286616805666992128)
-* [ctions as a (web)cron  https://t.co/cdtQiW84xj](https://twitter.com/techvedi/status/1286609253852094464)
-* [Packages with AWS Lambda Functions Using Amplify+Lambda Layers  https://t.co/SsV4GZq03N](https://twitter.com/techvedi/status/1286609253151563776)
-* [Vault, Code and Memory  https://t.co/0cXLNRYsoO](https://twitter.com/techvedi/status/1286609252593758208)
+* [The Top 80 Nestjs Open Source Projects](https://twitter.com/endstacktech/status/1283363688016044037)
+* [Creating adminlike web applications with NestJS and React Admin](https://twitter.com/endstacktech/status/1283362664727457793)
+* [Build a blog using Nest.js, TypeScript, React and MongoDB](https://twitter.com/endstacktech/status/1283362191152779265)
+* [](https://twitter.com/endstacktech/status/1283358412185595904)
+* [RT @nestframework: 📯📯 Announcing 📯📯
+
+We’re excited to announce that the PREORDER for Official @nestframework Fundamentals Course has begun…](https://twitter.com/endstacktech/status/1282670737350746114)
 <!-- tweets ends -->
