@@ -29,4 +29,8 @@
 * [The Top 80 Nestjs Open Source Projects](https://twitter.com/endstacktech/status/1283363688016044037)
 * [Creating adminlike web applications with NestJS and React Admin](https://twitter.com/endstacktech/status/1283362664727457793)
 * [Build a blog using Nest.js, TypeScript, React and MongoDB](https://twitter.com/endstacktech/status/1283362191152779265)
+* [](https://twitter.com/endstacktech/status/1283358412185595904)
+* [RT @nestframework: 📯📯 Announcing 📯📯
+
+We’re excited to announce that the PREORDER for Official @nestframework Fundamentals Course has begun…](https://twitter.com/endstacktech/status/1282670737350746114)
 <!-- tweets ends -->
