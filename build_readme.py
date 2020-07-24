@@ -192,7 +192,7 @@ if __name__ == "__main__":
 
     readme.open("w").write(rewritten)
     
-        entries = fetch_hack_entries()[:5]
+    entries = fetch_hack_entries()[:5]
     entries_md = "\n".join(
         ["* [{title}]({url})".format(**entry) for entry in entries]
     )
