@@ -8,7 +8,7 @@
 <!-- blog ends -->
 
 
-### Medium Series
+### Medium Stories
 <!-- tils starts -->
 * [PHP Programming: Journey from Procedural to Serverless in 25 years](https://medium.com/@abduljaleelkavungal/php-programming-journey-from-procedural-to-serverless-in-25-years-cabbfbb09aa8?source=rss-e409f4b5ec81------2)
 * [Cloud cost saving opportunities : AWS](https://medium.com/@abduljaleelkavungal/cloud-cost-saving-opportunities-aws-a1f070dd2370?source=rss-e409f4b5ec81------2)
