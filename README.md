@@ -26,9 +26,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Essential Guide to the 100 Days of Code Challenge](https://twitter.com/endstacktech/status/1295132663162929153)
-* [](https://twitter.com/endstacktech/status/1291887638492798976)
-* [The Top 80 Nestjs Open Source Projects](https://twitter.com/endstacktech/status/1283363688016044037)
+* [ed] Your RSS.app Trial has Expired  Sun Oct 04 2020](https://rss.app)
 <!-- tweets ends -->
 
 ### Hacker News Posts
