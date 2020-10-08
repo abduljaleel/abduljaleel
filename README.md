@@ -2,9 +2,7 @@
 
 ### TIL.dev (Blog)
 <!-- blog starts -->
-* [Google Professional Cloud Architect Certification (PCA) – Case Study Questions](https://abduljaleel.dev/2020/06/14/google-professional-cloud-architect-certification-pca/)
-* [Build apps using Atlassian Forge (Powered by AWS Lambda) and win $31,5000 in prizes](https://abduljaleel.dev/2020/06/13/build-apps-using-atlassian-forge-powered-by-aws-lambda-and-win-315000-in-prizes/)
-* [AWS cost saving opportunities](https://abduljaleel.dev/2020/06/11/cloud-cost-saving-opportunities-aws/)
+
 <!-- blog ends -->
 
 
