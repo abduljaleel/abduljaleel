@@ -26,7 +26,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [ed] Your RSS.app Trial has Expired  Fri Nov 20 2020](https://rss.app)
+* [ed] Your RSS.app Trial has Expired  Sat Nov 21 2020](https://rss.app)
 <!-- tweets ends -->
 
 ### Hacker News Posts
