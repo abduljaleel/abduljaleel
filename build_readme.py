@@ -117,10 +117,10 @@ def fetch_blog_entries():
     ]
 
 def fetch_tweet_entries():
-    entries = feedparser.parse("https://rss.app/feeds/WWUMyRko5CozKAtR.xml")["entries"]
+    entries = feedparser.parse("https://rss.app/feeds/WPQrAz9S2UJiCpBk.xml")["entries"]
     return [
         {
-            "title": entry["title"][14:].replace("-", ""),
+            "title": entry["title"][14:].replace("@techvedi:", ""),
             "url": entry["link"],
         }
         for entry in entries
