@@ -26,7 +26,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [ound  Fri Dec 04 2020](https://rss.app)
+* [ound  Sat Dec 05 2020](https://rss.app)
 <!-- tweets ends -->
 
 ### Hacker News Posts
