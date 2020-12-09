@@ -10,12 +10,7 @@
 
 ### Medium Stories
 <!-- tils starts -->
-* [PHP Programming: Journey from Procedural to Serverless in 25 years](https://medium.com/@abduljaleelkavungal/php-programming-journey-from-procedural-to-serverless-in-25-years-cabbfbb09aa8?source=rss-e409f4b5ec81------2)
-* [Cloud cost saving opportunities : AWS](https://medium.com/@abduljaleelkavungal/cloud-cost-saving-opportunities-aws-a1f070dd2370?source=rss-e409f4b5ec81------2)
-* [5 key principles for IoT platforms](https://medium.com/i2sensys-official-blog/5-key-principles-for-iot-platforms-f49199eb7f3d?source=rss-e409f4b5ec81------2)
-* [Top 3 reasons to choose Amazon Lex for building chatbots](https://medium.com/@abduljaleelkavungal/top-3-reasons-to-choose-amazon-lex-for-building-chatbots-4939b5b8ba3d?source=rss-e409f4b5ec81------2)
-* [5 reasons why Chatbots are emerging as the future of business](https://medium.com/@abduljaleelkavungal/5-reasons-why-chatbots-are-emerging-as-the-future-of-business-b45e679a6510?source=rss-e409f4b5ec81------2)
-* [Deep Machine Learning libraries and frameworks](https://medium.com/@abduljaleelkavungal/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe?source=rss-e409f4b5ec81------2)
+
 <!-- tils ends -->
 
 ### Recent releases
