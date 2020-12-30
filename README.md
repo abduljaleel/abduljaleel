@@ -26,6 +26,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [techvedi:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9d4e78313ca9573c6f60ab61368dbda6bf6a46c79d914069262d361e2c01778)
 * [ Koyeb Serverless Engine: Docker Containers, Continuous Deployment of Functions  #serverless](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9d4e78313ca9573c6f60ab61368dbdc6efaa0627cda140e9163d26be6c21a72)
 * [ Walk-through — install Kubernetes to your Raspberry Pi in 15 minutes  #kavungal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9d4e78313ca9573c6f60ab61368dbdc6df3a46b78dc1d089668d06de0c2167b)
 <!-- tweets ends -->
