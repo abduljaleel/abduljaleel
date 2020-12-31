@@ -33,5 +33,9 @@
 
 ### Hacker News Posts
 <!-- hacks starts -->
-
+* [CentOS Stream: Building an innovative future for enterprise Linux](https://www.redhat.com/en/blog/centos-stream-building-innovative-future-enterprise-linux)
+* [Facebook Slams Netflix’s ‘The Social Dilemma’ as ‘Distorted’ and Sensationalist](https://variety.com/2020/digital/news/facebook-netflix-social-dilemma-documentary-1234791015/)
+* [Improve your code: Tales from confinement without a debugger](https://developers.redhat.com/blog/2020/07/07/improve-your-code-tales-from-confinement-without-a-debugger/)
+* [AI Hackathon by Facebook](https://fbai2.devpost.com/)
+* [AWS CodeArtifact: securely store, publish, & share software packages](https://aws.amazon.com/codeartifact/)
 <!-- hacks ends -->
