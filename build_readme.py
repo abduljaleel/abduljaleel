@@ -121,7 +121,7 @@ def fetch_tweet_entries():
     return [
         {
             "title": entry["title"].replace("@techvedi:", ""),
-            "url": entry["link"],
+            "url": entry["link"].replace("@techvedi:", ""),
         }
         for entry in entries
     ]
