@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [  State-of-DevOps report recommends five measures as the key parameters for software delivery and operational (SDO) performance](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9d4e78313ca9573c6f60ab61368dbdb6bf6a06b74d9130b9668dc6ee6c71779)
 * [  Workshop on Amazon AppFlow, Athena and Quicksight in action  @awscloud](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9d4e78313ca9573c6f60ab61368dbdb6af0aa6978d9130d9b68dc6ee6c3157a)
 * [ ](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9d4e78313ca9573c6f60ab61368dbda6bf6a46c79d914069262d361e2c01778)
-* [@  Koyeb Serverless Engine: Docker Containers, Continuous Deployment of Functions  #serverless](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9d4e78313ca9573c6f60ab61368dbdc6efaa0627cda140e9163d26be6c21a72)
 <!-- tweets ends -->
 
 ### Hacker News Posts
