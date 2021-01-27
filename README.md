@@ -33,5 +33,9 @@
 
 ### Hacker News Posts
 <!-- hacks starts -->
-
+* [The Rise of Rocky Linux](https://changelog.com/podcast/427)
+* [Why Rustlang has a bright future in the cloud](https://www.qovery.com/blog/why-rust-has-a-bright-future-in-the-cloud)
+* [Lesser Known AWS Attacks](https://tldrsec.com/blog/lesser-known-aws-attacks/)
+* [CentOS Stream: Building an innovative future for enterprise Linux](https://www.redhat.com/en/blog/centos-stream-building-innovative-future-enterprise-linux)
+* [Facebook Slams Netflix’s ‘The Social Dilemma’ as ‘Distorted’ and Sensationalist](https://variety.com/2020/digital/news/facebook-netflix-social-dilemma-documentary-1234791015/)
 <!-- hacks ends -->
