@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [4 Benefits of CI/CD](https://ift.tt/2Mc60FF)
-* [Reliable, High-Throughput Batching with the Kafka Consumer Snap](https://ift.tt/36nETRa)
-* [techvedi](https://ift.tt/36nETRa)
+* [How to prepare for interview on AWS](https://ift.tt/3agGGsq)
+* [GCP — Deploying Vue App with NGINX on GKE](https://ift.tt/2YpXnfA)
+* [A Node.js producer-consumer starter kit using AWS Lambda, AWS SQS, TypeScript and Express](https://ift.tt/2NQ3vff)
 <!-- tweets ends -->
 
 ### Hacker News Posts
