@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [How to prepare for interview on AWS](https://ift.tt/3agGGsq)
-* [GCP — Deploying Vue App with NGINX on GKE](https://ift.tt/2YpXnfA)
-* [A Node.js producer-consumer starter kit using AWS Lambda, AWS SQS, TypeScript and Express](https://ift.tt/2NQ3vff)
+* [The Secret Power of CloudFormation](https://ift.tt/3oB5m4g)
+* [How to optimize cost with AWS Graviton and Spot in Amazon Elastic Kubernetes Service (EKS)](https://ift.tt/3iYFz4v)
+* [AWS — Deploying Next.js App With Java Backend On EKS](https://ift.tt/3ahcayv)
 <!-- tweets ends -->
 
 ### Hacker News Posts
