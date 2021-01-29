@@ -117,10 +117,10 @@ def fetch_blog_entries():
     ]
 
 def fetch_tweet_entries():
-    entries = feedparser.parse("https://rss.app/feeds/WPQrAz9S2UJiCpBk.xml")["entries"]
+    entries = feedparser.parse("https://zapier.com/engine/rss/8164784/techvedi")["entries"]
     return [
         {
-            "title": entry["title"].replace("techvedi:", " "),
+            "title": entry["title"],
             "url": entry["link"],
         }
         for entry in entries
