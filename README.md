@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Deploy a Containerized Application on AWS with Terraform](https://ift.tt/3akTRsi)
 * [The Secret Power of CloudFormation](https://ift.tt/3oB5m4g)
 * [How to optimize cost with AWS Graviton and Spot in Amazon Elastic Kubernetes Service (EKS)](https://ift.tt/3iYFz4v)
-* [AWS — Deploying Next.js App With Java Backend On EKS](https://ift.tt/3ahcayv)
 <!-- tweets ends -->
 
 ### Hacker News Posts
