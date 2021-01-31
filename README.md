@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [What all has changed in the AWS Lambda in the past one year…](https://ift.tt/3ih44cS)
-* [Tello Drone Face Follower](https://ift.tt/3pNuDt2)
-* [GCP — Deploying Next.js App With Java Backend on GKE](https://ift.tt/36vEGf0)
+* [Azure Pipelines vs. GitHub Actions: Key Differences](https://ift.tt/3r9pb42)
+* [Securing AWS Cloud](https://ift.tt/3oAeBl5)
+* [Synchronous and Asynchronous Learning Methods](https://ift.tt/3jbdgQz)
 <!-- tweets ends -->
 
 ### Hacker News Posts
