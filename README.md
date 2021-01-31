@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Tello Drone Face Follower](https://ift.tt/3pNuDt2)
 * [GCP — Deploying Next.js App With Java Backend on GKE](https://ift.tt/36vEGf0)
 * [Kubernetes for Kids](https://ift.tt/2MnUxVT)
-* [Kubernetes : Configuring Kubernetes Cluster](https://ift.tt/36rMRch)
 <!-- tweets ends -->
 
 ### Hacker News Posts
