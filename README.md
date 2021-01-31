@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [The End of ETL As We Know It](https://ift.tt/2Ye7Lad)
-* [Deploy a Containerized Application on AWS with Terraform](https://ift.tt/3akTRsi)
-* [The Secret Power of CloudFormation](https://ift.tt/3oB5m4g)
+* [Kubernetes : Configuring Kubernetes Cluster](https://ift.tt/36rMRch)
+* [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://ift.tt/36jyQwT)
+* [GameStonks: Power to the People](https://ift.tt/3oyovDG)
 <!-- tweets ends -->
 
 ### Hacker News Posts
