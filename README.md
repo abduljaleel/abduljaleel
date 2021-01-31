@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Kubernetes for Kids](https://ift.tt/2MnUxVT)
 * [Kubernetes : Configuring Kubernetes Cluster](https://ift.tt/36rMRch)
 * [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://ift.tt/36jyQwT)
-* [GameStonks: Power to the People](https://ift.tt/3oyovDG)
 <!-- tweets ends -->
 
 ### Hacker News Posts
