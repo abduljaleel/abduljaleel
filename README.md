@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [GCP — Deploying Next.js App With Java Backend on GKE](https://ift.tt/36vEGf0)
 * [Kubernetes for Kids](https://ift.tt/2MnUxVT)
 * [Kubernetes : Configuring Kubernetes Cluster](https://ift.tt/36rMRch)
-* [Black-Box Algorithms Shouldn’t Decide Who Gets a Vaccine](https://ift.tt/36jyQwT)
 <!-- tweets ends -->
 
 ### Hacker News Posts
