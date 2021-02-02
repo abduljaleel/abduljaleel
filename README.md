@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [This Is How I Deploy Next.js into Google Cloud Run with Github Actions](https://ift.tt/3czrCZW)
+* [Data Science certifications — the best picks for 2021](https://ift.tt/3oH6Bii)
 * [The Process I Followed to Optimise the Performance of a React App](https://ift.tt/39COVjx)
-* [On Device Machine Learning: Train And Run TensorFlow Lite Models In Your Flutter Apps](https://ift.tt/3rbLvtW)
-* [Google Pub/Sub Lite for Kafka Users](https://ift.tt/2YE63yU)
 <!-- tweets ends -->
 
 ### Hacker News Posts
