@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Azure Pipelines vs. GitHub Actions: Key Differences](https://ift.tt/3r9pb42)
-* [Securing AWS Cloud](https://ift.tt/3oAeBl5)
-* [Synchronous and Asynchronous Learning Methods](https://ift.tt/3jbdgQz)
+* [The Process I Followed to Optimise the Performance of a React App](https://ift.tt/39COVjx)
+* [On Device Machine Learning: Train And Run TensorFlow Lite Models In Your Flutter Apps](https://ift.tt/3rbLvtW)
+* [Google Pub/Sub Lite for Kafka Users](https://ift.tt/2YE63yU)
 <!-- tweets ends -->
 
 ### Hacker News Posts
