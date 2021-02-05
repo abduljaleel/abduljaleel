@@ -20,6 +20,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [calculator-backendAPI ](https://github.com/abduljaleel/calculator-backendAPI/releases/tag/v1.0.0) - 2021-02-03
 * [localstack-serverless 1.0](https://github.com/abduljaleel/localstack-serverless/releases/tag/1.0) - 2020-07-12
 * [zodiva 1.0](https://github.com/abduljaleel/zodiva/releases/tag/1.0) - 2020-07-12
 <!-- recent_releases ends -->
