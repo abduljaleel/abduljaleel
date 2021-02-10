@@ -33,9 +33,5 @@
 
 ### Hacker News Posts
 <!-- hacks starts -->
-* [A collection of AWS related videos, podcasts, code repositories and whitepapers](https://awsstash.com/)
-* [The year global health went local (2021 Annual Letter by Bill Gates)](https://www.gatesnotes.com/2021-Annual-Letter)
-* [The Rise of Rocky Linux](https://changelog.com/podcast/427)
-* [Why Rustlang has a bright future in the cloud](https://www.qovery.com/blog/why-rust-has-a-bright-future-in-the-cloud)
-* [Lesser Known AWS Attacks](https://tldrsec.com/blog/lesser-known-aws-attacks/)
+
 <!-- hacks ends -->
