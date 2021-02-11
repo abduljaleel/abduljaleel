@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Code Coverage Reports using Codacy and Codefresh](https://ift.tt/3aWaY42)
 * [GitOps Patterns — Auto-Sync Vs. Manual Sync](https://ift.tt/370HbG8)
 * [This Is How I Deploy Next.js into Google Cloud Run with Github Actions](https://ift.tt/3czrCZW)
-* [Data Science certifications — the best picks for 2021](https://ift.tt/3oH6Bii)
 <!-- tweets ends -->
 
 ### Hacker News Posts
