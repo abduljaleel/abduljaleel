@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [GitOps Patterns — Auto-Sync Vs. Manual Sync](https://ift.tt/370HbG8)
 * [This Is How I Deploy Next.js into Google Cloud Run with Github Actions](https://ift.tt/3czrCZW)
 * [Data Science certifications — the best picks for 2021](https://ift.tt/3oH6Bii)
-* [The Process I Followed to Optimise the Performance of a React App](https://ift.tt/39COVjx)
 <!-- tweets ends -->
 
 ### Hacker News Posts
