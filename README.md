@@ -26,9 +26,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Containers 101 — All the fundamentals and more](https://ift.tt/2NguNLk)
 * [10 Significant Repos on Github for JavaScript Developers](https://ift.tt/3cX2f4m)
 * [Code Coverage Reports using Codacy and Codefresh](https://ift.tt/3aWaY42)
-* [GitOps Patterns — Auto-Sync Vs. Manual Sync](https://ift.tt/370HbG8)
 <!-- tweets ends -->
 
 ### Hacker News Posts
