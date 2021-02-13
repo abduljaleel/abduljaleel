@@ -27,9 +27,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Optimizing Cloud Native Development Workflows: Combining Skaffold, Telepresence, and ArgoCD](https://ift.tt/2Zazl8z)
 * [AWS S3M Pattern: 5 Steps to marry Serverless & Microservice Securely](https://ift.tt/3tOTnUx)
 * [Containers 101 — All the fundamentals and more](https://ift.tt/2NguNLk)
-* [10 Significant Repos on Github for JavaScript Developers](https://ift.tt/3cX2f4m)
 <!-- tweets ends -->
 
 ### Hacker News Posts
