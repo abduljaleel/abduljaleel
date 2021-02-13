@@ -10,6 +10,7 @@
 
 ### Medium Stories
 <!-- tils starts -->
+* [DevOps without measuring the right metrics will be a failure](https://medium.com/@abduljaleelkavungal/devops-without-measuring-the-right-metrics-will-be-a-failure-684cde2a6141?source=rss-e409f4b5ec81------2)
 * [PHP Programming: Journey from Procedural to Serverless in 25 years](https://medium.com/@abduljaleelkavungal/php-programming-journey-from-procedural-to-serverless-in-25-years-cabbfbb09aa8?source=rss-e409f4b5ec81------2)
 * [Cloud cost saving opportunities : AWS](https://medium.com/@abduljaleelkavungal/cloud-cost-saving-opportunities-aws-a1f070dd2370?source=rss-e409f4b5ec81------2)
 * [5 key principles for IoT platforms](https://medium.com/i2sensys-official-blog/5-key-principles-for-iot-platforms-f49199eb7f3d?source=rss-e409f4b5ec81------2)
@@ -26,9 +27,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [AWS S3M Pattern: 5 Steps to marry Serverless & Microservice Securely](https://ift.tt/3tOTnUx)
 * [Containers 101 — All the fundamentals and more](https://ift.tt/2NguNLk)
 * [10 Significant Repos on Github for JavaScript Developers](https://ift.tt/3cX2f4m)
-* [Code Coverage Reports using Codacy and Codefresh](https://ift.tt/3aWaY42)
 <!-- tweets ends -->
 
 ### Hacker News Posts
