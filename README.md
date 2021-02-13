@@ -27,9 +27,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [ArgoCD, are you gonna flux my way?](https://ift.tt/3daNvPu)
 * [DevOps without measuring the right metrics will be a failure](https://ift.tt/3b6dxk4)
 * [Optimizing Cloud Native Development Workflows: Combining Skaffold, Telepresence, and ArgoCD](https://ift.tt/2Zazl8z)
-* [AWS S3M Pattern: 5 Steps to marry Serverless & Microservice Securely](https://ift.tt/3tOTnUx)
 <!-- tweets ends -->
 
 ### Hacker News Posts
