@@ -27,9 +27,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [What GitOps actually is and what it is not](https://ift.tt/2KoHBhL)
-* [K9s — the powerful terminal UI for Kubernetes](https://ift.tt/3s4zHub)
-* [ArgoCD, are you gonna flux my way?](https://ift.tt/3daNvPu)
+* [Why 365 Commits](https://ift.tt/3piNtar)
+* [Tech Anti-Interviewing](https://ift.tt/3qnBbPo)
+* [Microservices Architecture](https://ift.tt/3dqyNEf)
 <!-- tweets ends -->
 
 ### Hacker News Posts
