@@ -27,9 +27,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [What GitOps actually is and what it is not](https://ift.tt/2KoHBhL)
+* [K9s — the powerful terminal UI for Kubernetes](https://ift.tt/3s4zHub)
 * [ArgoCD, are you gonna flux my way?](https://ift.tt/3daNvPu)
-* [DevOps without measuring the right metrics will be a failure](https://ift.tt/3b6dxk4)
-* [Optimizing Cloud Native Development Workflows: Combining Skaffold, Telepresence, and ArgoCD](https://ift.tt/2Zazl8z)
 <!-- tweets ends -->
 
 ### Hacker News Posts
