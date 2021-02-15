@@ -27,9 +27,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Keep Application Pipelines Simple by Provisioning Managed Cloud Services using Kubernetes YAML](https://ift.tt/37eQ4Mu)
 * [Why 365 Commits](https://ift.tt/3piNtar)
 * [Tech Anti-Interviewing](https://ift.tt/3qnBbPo)
-* [Microservices Architecture](https://ift.tt/3dqyNEf)
 <!-- tweets ends -->
 
 ### Hacker News Posts
