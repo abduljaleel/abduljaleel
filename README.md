@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Keep Application Pipelines Simple by Provisioning Managed Cloud Services using Kubernetes YAML](https://ift.tt/37eQ4Mu)
-* [Why 365 Commits](https://ift.tt/3piNtar)
-* [Tech Anti-Interviewing](https://ift.tt/3qnBbPo)
+* [Deploy an AWS Lamba Function as Docker container and invoke it from Slack](https://ift.tt/3al6W6i)
+* [How HashiCorp Waypoint Can Facilitate Your Application Workflow](https://ift.tt/3jRUoq2)
+* [Cloud CI/CD Pipeline Security Checklist](https://ift.tt/3diTVfp)
 <!-- tweets ends -->
 
 ### Hacker News Posts
