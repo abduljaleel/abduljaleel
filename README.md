@@ -10,6 +10,7 @@
 
 ### Medium Stories
 <!-- tils starts -->
+* [How to transfer Slack data to AWS appflow, query in athena and visualise in quicksight](https://medium.com/@abduljaleelkavungal/how-to-transfer-slack-data-to-aws-appflow-query-in-athena-and-visualise-in-quicksight-623ad2957bf7?source=rss-e409f4b5ec81------2)
 * [DevOps without measuring the right metrics will be a failure](https://medium.com/@abduljaleelkavungal/devops-without-measuring-the-right-metrics-will-be-a-failure-684cde2a6141?source=rss-e409f4b5ec81------2)
 * [PHP Programming: Journey from Procedural to Serverless in 25 years](https://medium.com/@abduljaleelkavungal/php-programming-journey-from-procedural-to-serverless-in-25-years-cabbfbb09aa8?source=rss-e409f4b5ec81------2)
 * [Cloud cost saving opportunities : AWS](https://medium.com/@abduljaleelkavungal/cloud-cost-saving-opportunities-aws-a1f070dd2370?source=rss-e409f4b5ec81------2)
