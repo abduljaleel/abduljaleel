@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Gitlab CI: Build & push Docker image to AWS ECR (Elastic Container Registry)](https://ift.tt/2LZkdYU)
+* [GitOps Observability — Visualizing the journey of a container](https://ift.tt/39mN40S)
 * [Deploy an AWS Lamba Function as Docker container and invoke it from Slack](https://ift.tt/3al6W6i)
-* [How HashiCorp Waypoint Can Facilitate Your Application Workflow](https://ift.tt/3jRUoq2)
-* [Cloud CI/CD Pipeline Security Checklist](https://ift.tt/3diTVfp)
 <!-- tweets ends -->
 
 ### Hacker News Posts
