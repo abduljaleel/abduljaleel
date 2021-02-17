@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Gitlab CI: Build & push Docker image to AWS ECR (Elastic Container Registry)](https://ift.tt/2LZkdYU)
-* [GitOps Observability — Visualizing the journey of a container](https://ift.tt/39mN40S)
-* [Deploy an AWS Lamba Function as Docker container and invoke it from Slack](https://ift.tt/3al6W6i)
+* [How to set up CI/CD with Buddy and Azure](https://ift.tt/2ZuaSLz)
+* [How to build and deploy React.js with no downtime](https://ift.tt/3rVkUBC)
+* [Best Practices In Kubernetes Monitoring](https://ift.tt/2ZnPjfQ)
 <!-- tweets ends -->
 
 ### Hacker News Posts
