@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [How to do database migration using AWS Database Migration Service (DMS) from on-premise/EC2 to RDS](https://ift.tt/3qCyE4a)
+* [Manage Delivery Plans With Azure DevOps](https://ift.tt/3dtOKsZ)
 * [How to set up CI/CD with Buddy and Azure](https://ift.tt/2ZuaSLz)
-* [How to build and deploy React.js with no downtime](https://ift.tt/3rVkUBC)
-* [Best Practices In Kubernetes Monitoring](https://ift.tt/2ZnPjfQ)
 <!-- tweets ends -->
 
 ### Hacker News Posts
