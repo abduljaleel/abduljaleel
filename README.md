@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Amazon Web Services (AWS) — Serverless Architecture](https://ift.tt/2NdYywP)
 * [How to do database migration using AWS Database Migration Service (DMS) from on-premise/EC2 to RDS](https://ift.tt/3qCyE4a)
 * [Manage Delivery Plans With Azure DevOps](https://ift.tt/3dtOKsZ)
-* [How to set up CI/CD with Buddy and Azure](https://ift.tt/2ZuaSLz)
 <!-- tweets ends -->
 
 ### Hacker News Posts
