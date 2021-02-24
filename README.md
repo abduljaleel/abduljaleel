@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Bridge Integrity — Integration Testing Strategy for EventBridge Based Serverless Architectures](https://ift.tt/3klQl5S)
 * [Change Data Capture and Kafka](https://ift.tt/3aKS8y5)
 * [Amazon Web Services (AWS) — Serverless Architecture](https://ift.tt/2NdYywP)
-* [How to do database migration using AWS Database Migration Service (DMS) from on-premise/EC2 to RDS](https://ift.tt/3qCyE4a)
 <!-- tweets ends -->
 
 ### Hacker News Posts
