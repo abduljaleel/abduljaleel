@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Building a Modern React App From Scratch in 2021](https://ift.tt/2Mp9cAn)
 * [Bridge Integrity — Integration Testing Strategy for EventBridge Based Serverless Architectures](https://ift.tt/3klQl5S)
 * [Change Data Capture and Kafka](https://ift.tt/3aKS8y5)
-* [Amazon Web Services (AWS) — Serverless Architecture](https://ift.tt/2NdYywP)
 <!-- tweets ends -->
 
 ### Hacker News Posts
