@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [10 Things Every Nest.js Developer Should Know](https://ift.tt/3bQPlmq)
 * [Azure — Building Different Environments With Terraform Using Folders](https://ift.tt/3sK9Nw7)
 * [Reverse ETL — A Primer](https://ift.tt/2ZSWT27)
-* [Google Kubernetes Engine (GKE) Autopilot](https://ift.tt/2ZTCREG)
 <!-- tweets ends -->
 
 ### Hacker News Posts
