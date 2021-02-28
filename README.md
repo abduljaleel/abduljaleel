@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Using BigQuery Arrays to Analyze my Netflix Viewing History](https://ift.tt/2O8pFcI)
 * [10 Things Every Nest.js Developer Should Know](https://ift.tt/3bQPlmq)
 * [Azure — Building Different Environments With Terraform Using Folders](https://ift.tt/3sK9Nw7)
-* [Reverse ETL — A Primer](https://ift.tt/2ZSWT27)
 <!-- tweets ends -->
 
 ### Hacker News Posts
