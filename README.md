@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [How can we deploy AWS resources with ease using AWS CloudFormation templates?](https://ift.tt/3c4bGwI)
+* [Hassle-free multi-tenant K8S clusters management using Argo CD](https://ift.tt/3sUsddv)
 * [Developer Portals — A Primer](https://ift.tt/30f5CvT)
-* [How to auto register and deregister EC2 Instances behind Application Load Balancer (ALB) using…](https://ift.tt/3c7RUjM)
-* [Multi-cloud strategy — Motivations, Challenges and Solutions Landscape](https://ift.tt/3bkcTAS)
 <!-- tweets ends -->
 
 ### Hacker News Posts
