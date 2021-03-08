@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [6 Best Practices for Successful Implementation of Enterprise DevOps!](https://ift.tt/3rnMibI)
 * [How can we deploy AWS resources with ease using AWS CloudFormation templates?](https://ift.tt/3c4bGwI)
 * [Hassle-free multi-tenant K8S clusters management using Argo CD](https://ift.tt/3sUsddv)
-* [Developer Portals — A Primer](https://ift.tt/30f5CvT)
 <!-- tweets ends -->
 
 ### Hacker News Posts
