@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [5 Problems Faced When Using SOLID Design Principles — And How To Fix Them](https://ift.tt/38jm4Qj)
 * [6 Best Practices for Successful Implementation of Enterprise DevOps!](https://ift.tt/3rnMibI)
 * [How can we deploy AWS resources with ease using AWS CloudFormation templates?](https://ift.tt/3c4bGwI)
-* [Hassle-free multi-tenant K8S clusters management using Argo CD](https://ift.tt/3sUsddv)
 <!-- tweets ends -->
 
 ### Hacker News Posts
