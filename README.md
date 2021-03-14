@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [How we improved our CI/CD pipelines over the years](https://ift.tt/2OkG9yL)
-* [When, what and how to optimize (Go) software](https://ift.tt/2N4OExg)
-* [Service Mesh: The Super Hero of Cloud Native Realm](https://ift.tt/3quHjoo)
+* [Applying Chaos to Production – Chaos Engineering 101](https://ift.tt/30GVs7v)
+* [Don’t Deploy Applications with Terraform](https://ift.tt/2PW3lDT)
+* [Top Kubernetes Health Metrics You Must Monitor](https://ift.tt/3bH5c81)
 <!-- tweets ends -->
 
 ### Hacker News Posts
