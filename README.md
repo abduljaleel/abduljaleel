@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Applying Chaos to Production – Chaos Engineering 101](https://ift.tt/30GVs7v)
-* [Don’t Deploy Applications with Terraform](https://ift.tt/2PW3lDT)
-* [Top Kubernetes Health Metrics You Must Monitor](https://ift.tt/3bH5c81)
+* [Faster Incident Response on Kubernetes](https://ift.tt/3tnvNwR)
+* [Cloudformation vs. Terraform: Which is better?](https://ift.tt/3tAV3QD)
+* [The Netflix Cosmos Platform](https://ift.tt/3uDdYeG)
 <!-- tweets ends -->
 
 ### Hacker News Posts
