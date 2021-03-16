@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Faster Incident Response on Kubernetes](https://ift.tt/3tnvNwR)
-* [Cloudformation vs. Terraform: Which is better?](https://ift.tt/3tAV3QD)
-* [The Netflix Cosmos Platform](https://ift.tt/3uDdYeG)
+* [An introduction to bot builder platform Dialogflow CX](https://ift.tt/3qQCs18)
+* [How To Use Specific Runners in Gitlab CI/CD Pipeline](https://ift.tt/3eK3bdo)
+* [Cloud Native CI/CD with Tekton — Laying The Foundation](https://ift.tt/3ton65E)
 <!-- tweets ends -->
 
 ### Hacker News Posts
