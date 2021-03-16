@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Top 9 Cloud Native Startups to Watch in 2021](https://ift.tt/3vfZstF)
 * [An introduction to bot builder platform Dialogflow CX](https://ift.tt/3qQCs18)
 * [How To Use Specific Runners in Gitlab CI/CD Pipeline](https://ift.tt/3eK3bdo)
-* [Cloud Native CI/CD with Tekton — Laying The Foundation](https://ift.tt/3ton65E)
 <!-- tweets ends -->
 
 ### Hacker News Posts
