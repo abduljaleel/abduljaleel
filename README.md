@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [AWS Landing Zone — A Plethora of best practices for multi-account setup](https://ift.tt/38TrVMu)
 * [Top 9 Cloud Native Startups to Watch in 2021](https://ift.tt/3vfZstF)
 * [An introduction to bot builder platform Dialogflow CX](https://ift.tt/3qQCs18)
-* [How To Use Specific Runners in Gitlab CI/CD Pipeline](https://ift.tt/3eK3bdo)
 <!-- tweets ends -->
 
 ### Hacker News Posts
