@@ -35,9 +35,5 @@
 
 ### Hacker News Posts
 <!-- hacks starts -->
-* [AWS Cloud9 visual source control integration for Git](https://docs.aws.amazon.com/cloud9/latest/user-guide/source-control-gitpanel.html)
-* [A collection of AWS related videos, podcasts, code repositories and whitepapers](https://awsstash.com/)
-* [The year global health went local (2021 Annual Letter by Bill Gates)](https://www.gatesnotes.com/2021-Annual-Letter)
-* [The Rise of Rocky Linux](https://changelog.com/podcast/427)
-* [Why Rustlang has a bright future in the cloud](https://www.qovery.com/blog/why-rust-has-a-bright-future-in-the-cloud)
+
 <!-- hacks ends -->
