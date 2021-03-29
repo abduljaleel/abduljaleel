@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
+* [Why Threat Modelling Should Be Part of Your Serverless Development](https://ift.tt/3cvQW2i)
 * [Cloud Security Posture Management](https://ift.tt/2P6omMi)
 * [AWS Landing Zone — A Plethora of best practices for multi-account setup](https://ift.tt/38TrVMu)
-* [Top 9 Cloud Native Startups to Watch in 2021](https://ift.tt/3vfZstF)
 <!-- tweets ends -->
 
 ### Hacker News Posts
