@@ -28,9 +28,9 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [Why Threat Modelling Should Be Part of Your Serverless Development](https://ift.tt/3cvQW2i)
-* [Cloud Security Posture Management](https://ift.tt/2P6omMi)
-* [AWS Landing Zone — A Plethora of best practices for multi-account setup](https://ift.tt/38TrVMu)
+* [10 Free Courses to learn Cloud Computing For Beginners](https://ift.tt/2OEf4Xy)
+* [Go is More Object-Oriented Than Java](https://ift.tt/2PTXO15)
+* [Building a Real Life Data Lake in AWS](https://ift.tt/3g6fnFE)
 <!-- tweets ends -->
 
 ### Hacker News Posts
