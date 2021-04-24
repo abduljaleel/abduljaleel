@@ -28,9 +28,7 @@
 
 ### Latest Tweets
 <!-- tweets starts -->
-* [10 Free Courses to learn Cloud Computing For Beginners](https://ift.tt/2OEf4Xy)
-* [Go is More Object-Oriented Than Java](https://ift.tt/2PTXO15)
-* [Building a Real Life Data Lake in AWS](https://ift.tt/3g6fnFE)
+
 <!-- tweets ends -->
 
 ### Hacker News Posts
