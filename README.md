@@ -8,7 +8,14 @@
 
 ### Medium Stories
 <!-- tils starts -->
-
+* [How to transfer Slack data to AWS appflow, query in athena and visualise in quicksight](https://abduljaleelkavungal.medium.com/how-to-transfer-slack-data-to-aws-appflow-query-in-athena-and-visualise-in-quicksight-623ad2957bf7?source=rss-e409f4b5ec81------2)
+* [DevOps without measuring the right metrics will be a failure](https://abduljaleelkavungal.medium.com/devops-without-measuring-the-right-metrics-will-be-a-failure-684cde2a6141?source=rss-e409f4b5ec81------2)
+* [PHP Programming: Journey from Procedural to Serverless in 25 years](https://abduljaleelkavungal.medium.com/php-programming-journey-from-procedural-to-serverless-in-25-years-cabbfbb09aa8?source=rss-e409f4b5ec81------2)
+* [Cloud cost saving opportunities : AWS](https://abduljaleelkavungal.medium.com/cloud-cost-saving-opportunities-aws-a1f070dd2370?source=rss-e409f4b5ec81------2)
+* [5 key principles for IoT platforms](https://medium.com/i2sensys-official-blog/5-key-principles-for-iot-platforms-f49199eb7f3d?source=rss-e409f4b5ec81------2)
+* [Top 3 reasons to choose Amazon Lex for building chatbots](https://abduljaleelkavungal.medium.com/top-3-reasons-to-choose-amazon-lex-for-building-chatbots-4939b5b8ba3d?source=rss-e409f4b5ec81------2)
+* [5 reasons why Chatbots are emerging as the future of business](https://abduljaleelkavungal.medium.com/5-reasons-why-chatbots-are-emerging-as-the-future-of-business-b45e679a6510?source=rss-e409f4b5ec81------2)
+* [Deep Machine Learning libraries and frameworks](https://abduljaleelkavungal.medium.com/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe?source=rss-e409f4b5ec81------2)
 <!-- tils ends -->
 
 ### Recent releases
